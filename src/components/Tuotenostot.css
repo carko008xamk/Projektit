@@ -1,0 +1,37 @@
+.tuotenostot-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.tuotenostot-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+
+.tuotenosto {
+    text-align: center;
+    width: calc(33.33% - 10px);
+}
+
+.tuotenosto h4 {
+    margin-top: 10px;
+    font-size: small;
+}
+
+.tuotenosto p {
+    font-size: 14px;
+}
+
+.tuotenosto img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+.tuotenosto button {
+    margin-top: 3px;
+}
