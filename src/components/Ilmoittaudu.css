@@ -1,0 +1,23 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.form-field {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.form-button {
+    margin-top: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .form-container {
+        margin-left: 0;
+        align-items: center;
+    }
+}
