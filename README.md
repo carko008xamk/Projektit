@@ -1,2 +1,2 @@
 # Projektit
-Koulussa tehdyt projektit
+Ammattikorkeakoulussa tehdyt ohjelmointitehtävät sekä projektit
