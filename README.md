@@ -1,3 +1,16 @@
+Tässä on kuvitteellisen siivousyrityksen PuhtaanapitoPlus Oy:n verkkosivut, missä sivusto tarjoaa ammattitaitoista ja luotettavaa siivouspalvelua 
+niin kotitalouksille kuin yrityksillekin. Sovelluksen etusivulla käyttäjä löytää tietoa yrityksen palveluista, kuten kotisiivous, toimistosiivous, saunan siivous ja 
+yrityssiivous.
+Sovelluksen "Etusivu" -osiossa esitellään tarkemmin eri palvelut. Jokaisen palvelun yhteydessä on myös kuvia, jotka auttavat käyttäjää hahmottamaan, millainen siivouspalvelu on kyseessä.
+Sovelluksessa on myös "Tilauslomake", jonka kautta käyttäjä voi tilata haluamansa siivouspalvelun. Tilauslomakkeessa käyttäjä voi valita tarvitsemansa 
+palvelun ja täyttää yhteystietonsa. 
+Sivustolta löytyy myös Meistä -osio, jossa käyttäjä voi löytää lähimmän PuhtaanapitoPlus Oy:n toimipisteen karttapalvelun avulla ja sivusto ilmoittaa mikä 
+on käyttäjän ja yrityksen lähimmän toimipisteen välinen kilometrimäärä. 
+Meistä-osiossa kerrotaan myös tarkemmin yrityksestä. 
+Sovelluksen "Header" -osiossa on navigointipalkki, josta käyttäjä voi helposti 
+siirtyä eri osioihin. "Footer" -osiossa taas löytyy tietoa yrityksen eri toimipisteistä, yhteystiedoista sekä käyttöehdoista ja tietosuojaselosteesta. 
+Sovellus on toteutettu React-tekniikoin. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
