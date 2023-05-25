@@ -1,3 +1,5 @@
+Tämä sovellus on toteutettu React-, MUI- ja React Router-tekniikoin, jolla lintuharrastaja voi ylläpitää tietoja lintuhavainnoistaan. Sovelluksen tiedot tallennetaan selaimeen localStorage-tekniikalla. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
