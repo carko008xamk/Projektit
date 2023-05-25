@@ -1,3 +1,5 @@
+Tämä sovellus on toteutettu React ja MUI-tekniikoin, jolla voi tehdä varauksen lomamökistä. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
