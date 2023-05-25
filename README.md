@@ -1,3 +1,5 @@
+Tässä on sovellus, joka on toteutettu React-, MUI- ja React Router -tekniikoin kuvitteellinen pilkkikilpailun verkkopalvelu, jossa on tietoa tapahtumasta ja ilmoittautumislomake kilpailuun. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
