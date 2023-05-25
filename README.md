@@ -1,3 +1,6 @@
+Tässä on toteutettu React-tekniikoin sovellus, josta saa tietoa annetun paikkakunnan säätilasta ja sääennusteen. Säätiedot ladataan palvelimelta azurewebsites.net-osoitteista. Tiedot perustuvat
+Open Weather Map -palveluun. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
