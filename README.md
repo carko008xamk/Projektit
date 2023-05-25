@@ -1,3 +1,6 @@
+Tässä on toteutettu React-tekniikoin sovellus, jolla voi pitää kirjaa henkilökohtaisista veloista ja saatavista. Sovellusta käyttämällä käyttäjä tietää/muistaa keneltä on lainannut rahaa ja 
+vastaavasti kenelle on itse lainannut rahaa. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
