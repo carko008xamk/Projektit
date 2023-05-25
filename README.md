@@ -1,3 +1,5 @@
+Tämä sovellus on toteutettu React-, MUI- ja React Router -tekniikoin, jolla käyttäjä voi pitää kirjaa erilaisiin liikunnallisiin aktiviteetteihin. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
